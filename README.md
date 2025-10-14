@@ -1,8 +1,6 @@
 # Collaborative Filtering Recommendation System
 
-This project provides a PHP implementation of two common collaborative filtering techniques: **User-Based Collaborative Filtering** and **Item-Based Collaborative Filtering**.
-
-> This project is intended for demonstration and experimental purposes .
+This project provides a PHP implementation of two common collaborative filtering techniques: **User-Based Collaborative Filtering** and **Item-Based Collaborative Filtering**. It is intended for demonstration and experimental purposes .
 
 ## How to Use
 
