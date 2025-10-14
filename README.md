@@ -2,6 +2,8 @@
 
 This project provides a PHP implementation of two common collaborative filtering techniques: **User-Based Collaborative Filtering** and **Item-Based Collaborative Filtering**.
 
+> This project is intended for demonstration and experimental purposes .
+
 ## How to Use
 
 ### Prerequisites
